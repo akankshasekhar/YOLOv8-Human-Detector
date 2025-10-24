@@ -1,0 +1,5 @@
+path: C:/Users/gayat/OneDrive/Documents/GETTING STARTED/yolo_human_detector
+train: Train/images
+val: Val/images
+names:
+  0: human
